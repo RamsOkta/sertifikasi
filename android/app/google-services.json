@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094514982595",
+    "project_id": "login-10940",
+    "storage_bucket": "login-10940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094514982595:android:747a3d12acc036cd6e2c76",
+        "android_client_info": {
+          "package_name": "com.example.sertifikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgDhJLotZBjXFC3Z-qSMxGZ_fWMGRa2i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
