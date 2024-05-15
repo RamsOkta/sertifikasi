@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:sertifikasi/app/modules/login/views/login_view.dart'; // Sesuaikan dengan path tampilan login Anda
+import 'package:sertifikasi/app/modules/login/views/login_view.dart';
 
 class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // Navigasi ke tampilan login setelah 3 detik
     Future.delayed(Duration(seconds: 3), () {
       Navigator.pushReplacement(
         context,

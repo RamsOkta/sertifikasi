@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sertifikasi/app/data/motor_model.dart'; // Sesuaikan dengan path model Anda
+import 'package:sertifikasi/app/data/motor_model.dart';
 
 class MotorItem extends StatelessWidget {
   final Motor motor;
